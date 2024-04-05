@@ -61,3 +61,8 @@ un bouton `modifier` est présent dans l'interface mais ne fait rien
 - [ ] Test unitaire associé.
 
 (Explication et justification de ce qui a été fait...)
+
+
+## Explications générales
+
+Le projet n'est pas fonctionnel, seul une interface très basique est présent mais ne fonctionne pas, je pense qu'un début d'implémentation en modèle MVC est présent. le `MainFrame` est executé, le `Task` est le controlleur, `fenetre` est ma vue, il me manque mon controlleur. une image de l'application est présent dans le dossier `image`
