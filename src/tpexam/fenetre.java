@@ -12,7 +12,7 @@ public class fenetre extends JFrame {
 	private JTextField description = new JTextField("description");
 	private JTextField date = new JTextField("date d'échéance");
 	private JTextField priorite = new JTextField("priorité");
-	private JButton bouton = new JButton("Mon premier bouton");
+	private JButton bouton = new JButton("Ajouter");
 	
 	
 	public fenetre(){
