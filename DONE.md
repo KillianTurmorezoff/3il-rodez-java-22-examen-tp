@@ -6,19 +6,21 @@ Ce document récapitule les réalisations effectuées dans le cadre du TP de ges
 
 ### Ajout d'une tâche
 
-- [ ] Formulaire de saisie des détails de la tâche.
-- [ ] Bouton "Ajouter".
+- [x] Formulaire de saisie des détails de la tâche.
+- [x] Bouton "Ajouter".
 - [ ] Test unitaire associé.
 
 (Explication et justification de ce qui a été fait...)
+le bouton `Ajouter` et les zone de textes sont présents dans l'interface mais ne font rien.
 
 ### Modification d'une tâche
 
 - [ ] Mécanisme de sélection et de modification de la tâche.
-- [ ] Bouton "Modifier".
+- [x] Bouton "Modifier".
 - [ ] Test unitaire associé.
 
 (Explication et justification de ce qui a été fait...)
+un bouton `modifier` est présent dans l'interface mais ne fait rien
 
 ### Suppression d'une tâche
 
