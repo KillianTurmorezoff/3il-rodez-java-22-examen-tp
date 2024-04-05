@@ -2,7 +2,7 @@ package tpexam;
 
 import javax.swing.*;
 
-public class Main {
+public class MainFrame {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> new fenetre());
     }
