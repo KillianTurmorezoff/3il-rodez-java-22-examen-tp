@@ -16,5 +16,45 @@ public class Task {
 		this.priorite = priorite;
 	}
 
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getTitre() {
+		return titre;
+	}
+
+	public void setTitre(String titre) {
+		this.titre = titre;
+	}
+
+	public String getDescription() {
+		return description;
+	}
+
+	public void setDescription(String description) {
+		this.description = description;
+	}
+
+	public int getDateEcheance() {
+		return DateEcheance;
+	}
+
+	public void setDateEcheance(int dateEcheance) {
+		DateEcheance = dateEcheance;
+	}
+
+	public int getPriorite() {
+		return priorite;
+	}
+
+	public void setPriorite(int priorite) {
+		this.priorite = priorite;
+	}
+
 
 }
