@@ -12,8 +12,9 @@ public class fenetre extends JFrame {
 	private JTextField description = new JTextField("description");
 	private JTextField date = new JTextField("date d'échéance");
 	private JTextField priorite = new JTextField("priorité");
-	private JButton bouton = new JButton("Ajouter");
-	
+	private JButton boutonAdd = new JButton("Ajouter");
+	private JButton boutonModifier = new JButton("Modifier");
+
 	
 	public fenetre(){
 		JFrame mafenetre = new JFrame();
@@ -29,8 +30,11 @@ public class fenetre extends JFrame {
 		conteneur.add(description);
 		conteneur.add(date);
 		conteneur.add(priorite);
-		conteneur.add(bouton);
+		conteneur.add(boutonAdd);
+		conteneur.add(boutonModifier);
+
         setVisible(true);
+        
 		
 	}
 }
